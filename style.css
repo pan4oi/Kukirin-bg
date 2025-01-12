@@ -31,7 +31,7 @@ body{
     --item5-opacity: 0;
 }
 header{
-    width: 1140px;
+    width: 1280px;
     max-width: 90%;
     display: flex;
     justify-content: space-between;
@@ -41,6 +41,8 @@ header{
 }
 header .logo{
     font-weight: bold;
+    color: #f77b16;
+
 }
 
 
